@@ -8,7 +8,7 @@
 ## clone repo into your folder ##
 ``` git clone https://github.com/KritsanaMike/Rest-api.git```
 
-## start install node.js follow this link
+## install node.js follow this link
 https://nodejs.org/en
 
 

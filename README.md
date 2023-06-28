@@ -1,6 +1,7 @@
 # Rest-api
-basic rest api 
+# start install node js then initial them 
+``` npm init -y ```
 
-npm init -y
-
-npm i nodemon
+## install plugin ##
+``` npm i nodemon express mysql lodash ``` 
+ 
